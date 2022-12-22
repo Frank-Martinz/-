@@ -1,0 +1,13 @@
+В ветке master было больше коммитов (10 штук), чем в ветке demo (7 штук)
+Файлы human.txt идентичны
+Коммиты (ветка master):
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge branch 'boots' into boots_buttons
+Merge branch 'buttons' into boots_buttons
+Merge branch 'hat'
+Merge branch 'boots_buttons'
